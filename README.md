@@ -45,7 +45,9 @@ There are only two types of accounts at this time: Checking and Savings accounts
 ## Snippets:
 
 1. **ER - Diagram:**
+   
 ![ER-Diagram](pg1.png)
 
 2. **Design Entities:**
+   
 ![Design Entities](pg2.png)
