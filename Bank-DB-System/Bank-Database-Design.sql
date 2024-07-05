@@ -1,6 +1,3 @@
-
-/* ## MS-SQL PROJECT on Banking Transactions by Gyan Kumar GM ! */
-
 -- PHASE I of project begins 
 
 --Q1. Create a database for a banking application called 'Bank'. 
